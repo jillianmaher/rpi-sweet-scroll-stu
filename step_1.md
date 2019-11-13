@@ -7,7 +7,7 @@ Click the link to see the parallax scroll effect in action.
 https://trinket.io/embed/html/4b83d6865b?outputOnly=true&start=result
 
 ---
-title: What you will learn
+What you will learn
 ---
 
 + How to use CSS classes
@@ -15,7 +15,7 @@ title: What you will learn
 + How to use the CSS `@media` rule for responsive web design
 
 ---
-title: What you will need
+What you will need
 ---
 
 ### Hardware
@@ -23,5 +23,5 @@ title: What you will need
 
 
 ---
-title: Go to step_2.md to get started
+Go to step_2.md to get started
 ---
