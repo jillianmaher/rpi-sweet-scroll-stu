@@ -4,13 +4,7 @@
 
 Open the starter project.
 
-+ I'm using Trinket online
-
-Open the 'Sweet scroll' starter trinket at [dojo.soy/SweetScrollStart](http://dojo.soy/SweetScrollStart){:target="_blank"}.
-
-+ I'm using an offline editor
-
-Download the 'Sweet scroll' starter files from [dojo.soy/SweetScrollStart](http://dojo.soy/SweetScrollStart) and open them in your editor. If you are unsure how to work offline on your web page, check out [our guide about writing HTML and CSS code offline](https://codeclubprojects.org/en-GB/resources/webdev-working-offline/){:target="_blank"}.
+Since you're using GitHub, the files should be downloaded through Clone into GitHub Desktop. They will show up in your File Explorer. Open the `index.html` file using Visual Studio Code.
 
 --- /task ---
 
