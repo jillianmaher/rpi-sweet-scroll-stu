@@ -2,31 +2,18 @@
 
 In this project, you will learn to use a cool website scrolling technique called 'parallax scroll' to create a web page for a cake recipe.
 
---- no-print ---
-Scroll through the web page to see the parallax scroll effect in action.
+Click the link to see the parallax scroll effect in action.
 
-<iframe src="https://trinket.io/embed/html/4b83d6865b?outputOnly=true&start=result" width="600" height="505" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
+https://trinket.io/embed/html/4b83d6865b?outputOnly=true&start=result
 
---- /no-print ---
-
---- print-only ---
-![Web page screenshot](images/PrintOnlyScreenshot.png)
---- /print-only ---
-
---- collapse ---
----
 title: What you will learn
----
+
 + How to use CSS classes
 + How to use the `background-image` and `background-attachment: fixed` CSS properties
 + How to use the CSS `@media` rule for responsive web design
 
---- /collapse ---
-
---- collapse ---
----
 title: What you will need
----
+
 ### Hardware
 + A computer connected to the internet
 
