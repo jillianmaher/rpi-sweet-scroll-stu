@@ -52,3 +52,6 @@ Add a rule-set for the new `span` element called `border`.
 ```
 --- /task ---
 
+---
+Go to step_5.md for next instructions.
+---
