@@ -111,3 +111,8 @@ Add your new `div` element's class name to the list of selectors for the followi
 --- /task ---
 
 ![Image of project after current step](images/AfterStep2.png)
+
+---
+Go to step_3.md for your next instructions
+---
+
