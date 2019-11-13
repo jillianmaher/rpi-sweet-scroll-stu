@@ -53,3 +53,7 @@ Here is how your new rule-set might look:
   opacity: 0.7;
 }
 ```
+
+---
+Go to step-4.md for the next instructions
+---
