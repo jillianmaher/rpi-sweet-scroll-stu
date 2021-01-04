@@ -1,6 +1,6 @@
 ## Add parallax scroll
 
-Parallax scrolling is when background content on a web page moves at a different speed to the foreground content. You can see this effect below.
+Parallax scrolling is when background content on a web page moves at a different speed to the foreground content. You can preview this effect at the image ** ParallaxDemo.gif **.
 
 ![gif of the Sweet scroll in action.](images/ParallaxDemo.gif)
 
@@ -8,7 +8,7 @@ It's time to add the parallax effect to your web page!
 
 --- task ---
 
-In the following CSS rule-set, add the property `background-attachment` and give it the value `fixed`.
+In `style.css`, find the following CSS rule-set, ** add ** the property `background-attachment` and give it the value `fixed`.
 
 ```css
 .cd-logo, .kitchen-equipment, .cake-ingredients{
@@ -19,7 +19,7 @@ In the following CSS rule-set, add the property `background-attachment` and give
   background-size: cover;
   min-height: 100%;
 
-  background-attachment: fixed;
+  background-attachment: fixed;  //Add this line
 }
 ```
 --- /task ---
@@ -31,7 +31,7 @@ If you want to adjust the size of the gap between text sections, change the `min
 --- task ---
 If you want to make the `div` elements slightly see-through, add the `opacity` property to the CSS rule-set. Try some values between `0.1` and `1`.
 
-The image below shows the effect of setting the `opacity` property to `0.7`.
+The image ** AfterStep3.png ** shows the effect of setting the `opacity` property to `0.7`.
 
 ![Image of project after current step](images/AfterStep3.png)
 
@@ -41,7 +41,7 @@ If your last section on your web page is too short, so that some of the picture 
 
 Here is how your new rule-set might look:
 ```css
-  .cd-logo, .kitchen-equipment {
+  .cd-logo, .kitchen-equipment, {
   position: relative;
   background-position: center;
   background-repeat: no-repeat;

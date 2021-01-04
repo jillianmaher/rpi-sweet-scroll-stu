@@ -16,7 +16,7 @@ The CoderDojo logo is displayed using an empty `div` with the CSS property ```ba
 
 In the `index.html` file, create another `div` with an image of some kitchen equipment.
 
-Add a `div` element to the bottom of your page, **inside** the `<html>` tags. Give the `div` a helpful class name, e.g. `kitchen-equipment`.
+Add a `div` element to the bottom of your page, **inside** the `<html>` tags, start the new code at ** Line 24 ** . Give the `div` a helpful class name, e.g. `kitchen-equipment`.
 
 ```html
   <div class="kitchen-equipment">
@@ -38,7 +38,7 @@ Go to the ```style.css``` file, and add a CSS rule-set for your new class, inclu
 
 --- task ---
 
-+ In the CSS file, add the new class name to the list of selectors for the rule-set that is already there.
++ In the CSS file, ** add ** the new class name, `kitchen-equipment`,  to the list of selectors for the `cd-logo` rule-set that is ** already there ** .
 ```css
   .cd-logo, .kitchen-equipment {
   position: relative;
@@ -56,7 +56,7 @@ Scroll through your web page, and you should now see the new image.
 
 --- task ---
 
-Add more `div` elements with pictures or text. 
+Add more `div` elements with pictures or text in the `index.html` file. 
 
 The example below shows you how to add:
 + A list of the equipment for baking a cake
@@ -87,7 +87,7 @@ To add a section with an image, create a `div` element and give it a class name.
   </div>
   ```
 
-Here is the CSS code to assign a background image to your new `div`:
+Here is the CSS code for `style.css` to assign a background image to your new `div`:
 
 ```css
   .cake-ingredients {
@@ -95,7 +95,7 @@ Here is the CSS code to assign a background image to your new `div`:
   }
 ```
 
-Add your new `div` element's class name to the list of selectors for the following CSS rule.
+** Add ** your new `div` element's class name, `cake-ingredients`, to the list of selectors for the ** existing ** CSS rule.
 
 ```css
   .cd-logo, .kitchen-equipment, .cake-ingredients {
@@ -109,8 +109,9 @@ Add your new `div` element's class name to the list of selectors for the followi
 ```
 
 --- /task ---
+### Check your index page with the preview image, AfterStep2.png
 
-![Image of project after current step](images/AfterStep2.png)
+![See Image AFTERSTEP2.png](images/AfterStep2.png)
 
 ---
 Go to step_3.md for your next instructions
